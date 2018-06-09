@@ -1,5 +1,3 @@
-# Forward
-
 How would I define *digital watercolour* for the purposes of this course? *Digital watercolour* refers to an electronic representation of the fundamental characteristics of analogue watercolour. Let's break that down a bit more. 
 
 * *Electronic representation* equates to a grid of pixels like any other [digital raster image](https://en.m.wikipedia.org/wiki/Raster_graphics) such as a photo on your computer. 
